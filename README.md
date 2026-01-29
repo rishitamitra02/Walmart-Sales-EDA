@@ -89,5 +89,3 @@ The dataset contains weekly sales data for multiple Walmart stores.
 - Weak to moderate correlations exist between sales and economic factors
 
 ---
-
-## 📁 Repository Structure
